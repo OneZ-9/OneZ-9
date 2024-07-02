@@ -17,7 +17,7 @@ I specialize in JavaScript frameworks to create dynamic, user-friendly web appli
 Constantly learning and staying updated with the latest industry trends and technologies.
 
 ### 💡Problem Solver
-Eager to solve complex problems using technology. 
+Eager to solve complex problems using technology. Methodically approaching complex problems step by step, with strong analytical skills and a creative mindset.
 
 ## My Projects
 Explore my portfolio to see a selection of my projects, ranging from personal initiatives to collaborative efforts. These projects highlight my abilities and growth as a developer, demonstrating my commitment to excellence and innovation.
