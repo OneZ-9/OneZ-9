@@ -7,14 +7,18 @@ I specialize in JavaScript frameworks to create dynamic, user-friendly web appli
 
 ### 👨‍💻Technical Skills 
 
-#### Front-End
-<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-black?logo=javascript"> <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-darkblue?logo=typescript"> <img alt="Static Badge" src="https://img.shields.io/badge/React-black?logo=react"> <img alt="Static Badge" src="https://img.shields.io/badge/shadcn%2Fui-black?logo=shadcnui"> <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-orange?logo=html5">
 
-#### Styling
-<img alt="Static Badge" src="https://img.shields.io/badge/CSS3-%232965f1?logo=css3"> <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind%20CSS-white?logo=tailwindcss"> <img alt="Static Badge" src="https://img.shields.io/badge/styled--components?logo=styled-components&label=styled-components&labelColor=white&color=white">
+#### Front-End
+<img alt="Static Badge" src="https://img.shields.io/badge/React-black?logo=react"> <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-black?logo=javascript"> <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-darkblue?logo=typescript">  <img alt="Static Badge" src="https://img.shields.io/badge/shadcn%2Fui-black?logo=shadcnui"> <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-orange?logo=html5">
  
 #### Back-End
  <img alt="Static Badge" src="https://img.shields.io/badge/NodeJs-green?logo=node.js"> <img alt="Static Badge" src="https://img.shields.io/badge/Express-black?logo=express">
+
+#### FullStack
+<img alt="Static Badge" src="https://img.shields.io/badge/Next.js-black?logo=next.js">
+
+ #### Styling
+<img alt="Static Badge" src="https://img.shields.io/badge/CSS3-%232965f1?logo=css3"> <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind%20CSS-white?logo=tailwindcss"> <img alt="Static Badge" src="https://img.shields.io/badge/styled--components?logo=styled-components&label=styled-components&labelColor=white&color=white">
 
 #### Database
 <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb"> <img alt="Static Badge" src="https://img.shields.io/badge/Supabase-black?logo=supabase"> 
