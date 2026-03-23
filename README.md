@@ -34,7 +34,7 @@ Following best practices, constantly learning and staying updated with the lates
 Eager to solve complex problems using technology. 
 
 ## My Projects
-Explore my [portfolio](https://chamod-portfolio.vercel.app/) to see a selection of my projects, ranging from personal initiatives to collaborative efforts. These projects highlight my abilities and growth as a developer, demonstrating my commitment to excellence and innovation.
+Explore my [portfolio](https://chamod-dev.netlify.app/) to see a selection of my projects, ranging from personal initiatives to collaborative efforts. These projects highlight my abilities and growth as a developer, demonstrating my commitment to excellence and innovation.
 
 
 ## Let's Connect
